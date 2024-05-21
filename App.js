@@ -1,10 +1,11 @@
+import Search from "./src/Type-Weather/Pages/search";
 import CreativeComponent from "./src/class/class-component/native-component";
 
 
 
 export default function App() {
   return (
-      <CreativeComponent />
+      <Search />
   );
 }
 
